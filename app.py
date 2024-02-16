@@ -30,8 +30,8 @@ st.write(
     "Full quality images can be downloaded from the sidebar. " + 
     "Object detection models used here are only for experimental use. " +
     "The code is open source and available " + 
-    "[here](https://github.com/souradipp76/object_detection_kl_app) on GitHub. "+
-    "Check out more about this project [here](https://github.com/souradipp76/box_regression-kl_loss)."
+    "[here](https://github.com/WebDevalone/object_detection_yolov5/) on GitHub. "+
+    "Check out more about this project [here](https://github.com/WebDevalone/object_detection_yolov5/)."
 )
 st.sidebar.write("## Upload and Download :gear:")
 
