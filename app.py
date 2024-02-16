@@ -31,7 +31,7 @@ st.write(
     "Object detection models used here are only for experimental use. " +
     "The code is open source and available " + 
     "[here](https://github.com/WebDevalone/object_detection_yolov5/) on GitHub. "+
-    "Check out more about this project [here](https://github.com/WebDevalone/object_detection_yolov5/)."
+    "App created by: Ankit Sarraf with :heart:"
 )
 st.sidebar.write("## Upload and Download :gear:")
 
